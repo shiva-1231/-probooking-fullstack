@@ -1,0 +1,11 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.env
+
+# React / Node / Expo
+node_modules/
+dist/
+.expo/
